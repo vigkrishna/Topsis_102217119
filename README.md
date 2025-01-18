@@ -54,3 +54,10 @@ This will be in our Output csv file
 |0\.88|0\.77|6\.5|51\.5|14\.91|0\.5387640655736284|5|
 |0\.66|0\.44|5\.3|48\.9|13\.83|0\.560458620506467|4|
 |0\.93|0\.86|3\.4|37\.0|10\.55|0\.38966293040831607|7|
+
+
+
+
+## Published Package on pypi.org
+
+https://pypi.org/project/Topsis-KrishnaVig-102217119/
